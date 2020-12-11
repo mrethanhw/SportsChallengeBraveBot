@@ -1,0 +1,14 @@
+Number,date,day,month,opponent,win_loss,runs,runs_allowed,innings,rank,games_behind_raw,day_night_raw,attendance,home,win_total,loss_total,win_percentage,streak,game_duration,games_behind,google_trends,distance,avg_run,avg_run_allowed,avg_inning,avg_duration,temperature
+312,"Sunday, Sep 1 2019",Sunday,Sep,CHW,W,5,3,9,1,up 5.5,N,"41,397",1,84,54,0.608695652,4,188,5.5,36,719.6,6,4.3,9,192.6,28.1
+313,"Monday, Sep 2 2019",Monday,Sep,TOR,W,6,3,9,1,up 6.5,D,"28,987",1,85,54,0.611510791,5,172,6.5,36,951,5.9,4.2,9,191.9,28.2
+314,"Tuesday, Sep 3 2019",Tuesday,Sep,TOR,W,7,2,9,1,up 6.5,N,"25,427",1,86,54,0.614285714,6,166,6.5,36,951,5.7,3.5,9,187.8,25.5
+315,"Thursday, Sep 5 2019",Thursday,Sep,WSN,W,4,2,9,1,up 8.0,N,"28,831",1,87,54,0.617021277,7,177,8,36,638.6,6.1,2.9,9,185.8,28.9
+316,"Friday, Sep 6 2019",Friday,Sep,WSN,W,4,3,9,1,up 9.0,N,"37,181",1,88,54,0.61971831,8,200,9,36,638.6,6.1,2.8,9,183.8,28.6
+317,"Saturday, Sep 7 2019",Saturday,Sep,WSN,W,5,4,9,1,up10.0,N,"40,467",1,89,54,0.622377622,9,209,10,36,638.6,6,2.8,9,184.7,26.2
+318,"Sunday, Sep 8 2019",Sunday,Sep,WSN,L,4,9,9,1,up 9.0,D,"31,789",1,89,55,0.618055556,-1,196,9,37,638.6,6,3.1,9,187.6,25.9
+319,"Tuesday, Sep 17 2019",Tuesday,Sep,PHI,L,4,5,9,1,up 9.0,N,"28,843",1,93,59,0.611842105,-2,206,9,35,778.3,5.9,4,9,190.8,25.6
+320,"Wednesday, Sep 18 2019",Wednesday,Sep,PHI,L,1,4,9,1,up 9.0,N,"27,937",1,93,60,0.607843137,-3,179,9,35,778.3,6,4.3,9,195.4,25.8
+321,"Thursday, Sep 19 2019",Thursday,Sep,PHI,W,5,4,9,1,up 9.5,D,"33,223",1,94,60,0.61038961,1,190,9.5,35,778.3,5.1,4,9,192.5,29.2
+322,"Friday, Sep 20 2019",Friday,Sep,SFG,W,6,0,9,1,up 9.5,N,"37,419",1,95,60,0.612903226,2,141,9.5,35,2473.4,4.5,3.9,9,188.3,27.1
+323,"Saturday, Sep 21 2019",Saturday,Sep,SFG,W,8,1,9,1,up 9.5,N,"40,899",1,96,60,0.615384615,3,155,9.5,35,2473.4,4.6,3.6,9,183.6,28.3
+324,"Sunday, Sep 22 2019",Sunday,Sep,SFG,L,1,4,9,1,up 9.5,D,"33,674",1,96,61,0.611464968,-1,187,9.5,24,2473.4,4.8,3.4,9,181.9,29.1
